@@ -1,3 +1,5 @@
-system_constants.svh:
-fp_comparator.sv
+fp_comparator.sv:
+system_constants.svh
+mux2.sv
+
 
