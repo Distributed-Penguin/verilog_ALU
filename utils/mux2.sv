@@ -1,5 +1,6 @@
 //2 to 1 mux
-module mux2 (
+module mux2 
+(
     input logic [1:0] in,
     input logic sel,
     output logic out
